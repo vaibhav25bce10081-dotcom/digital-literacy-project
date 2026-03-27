@@ -16,7 +16,7 @@ This repository is organized into five main tasks:
 
 | Folder | Description |
 
-| `task-1-presentation` | Infographic covering digital literacy, student tools, and email etiquette. |
+| `task-1-presentation/` | Infographic covering digital literacy, student tools, and email etiquette. |
 | `task-2-portfolio/` | Screenshots of GitHub, LinkedIn, and Kaggle/ResearchGate profiles. |
 | `task-3-platforms/` | CodeChef achievement screenshots and Google Form/Sheet links. |
 | `task-4-email-etiquette/` | Professional email drafts and Social Media Do's/Don'ts checklist. |
